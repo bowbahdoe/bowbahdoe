@@ -1,18 +1,3 @@
-## 
-
-### Java Libraries
-
-#### Read/Write JSON
-
-https://github.com/bowbahdoe/json
-
-#### Interop with Jackson
-
-https://github.com/bowbahdoe/json-jackson
-
-#### Parse Url Parameters
-
-https://github.com/bowbahdoe/urlparameters
 
 
 
