@@ -1,4 +1,20 @@
-### Hi there 👋
+## 
+
+### Java Libraries
+
+#### Read/Write JSON
+
+https://github.com/bowbahdoe/json
+
+#### Interop with Jackson
+
+https://github.com/bowbahdoe/json-jackson
+
+#### Parse Url Parameters
+
+https://github.com/bowbahdoe/urlparameters
+
+
 
 <!--
 **bowbahdoe/bowbahdoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
